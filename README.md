@@ -10,7 +10,7 @@ bower install modernizr#3.0.0
 bower install holderjs#2.8.2
 ```
 
-# NPM Install
+# npm Install
 
 `npm install`
 
