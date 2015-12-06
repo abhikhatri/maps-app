@@ -6,7 +6,7 @@
 		"mongoose" : "~4.1.0",
 		"morgan"   : "~1.2.2",
 		"body-parser" : "~1.5.2",
-		"json-web-token" : "1.6.3",
+		"json-web-token" : "~1.6.3",
 		"method-override" : "~2.1.2"
 	}
 }
